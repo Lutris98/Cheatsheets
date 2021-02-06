@@ -9,5 +9,5 @@ https://www.data.go.kr/index.do<br>
 2. 민간데이터<br>
 https://kdx.kr/main<br>
 
-# 가 포털
+# 국가 포털
 https://aihub.or.kr/
