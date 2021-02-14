@@ -24,8 +24,8 @@ Markup은 태그이용한 방식
       <td>table data1</td>
       <td>table data2</td>
     </table>
-    <a href="https://github.com/Lutris98/Cheatsheets">Visit cheatsheets!
-    <img src="https://github.com/Lutris98/PersonalProject_TradingBot/blob/main/Quote.png">
+    <a href="https://github.com/Lutris98/Cheatsheets">Visit cheatsheets!</a>
+    <img src="https://github.com/Lutris98/PersonalProject_TradingBot/blob/main/Quote.png"></img>
 
 # 3. 마크다운 작성
 마크다운이란 html문서의 일종으로<br> 
