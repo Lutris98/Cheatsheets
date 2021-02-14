@@ -1,8 +1,8 @@
-# HyperText Markup Language
+# 1. HyperText Markup Language
 Hypertext는 누르면 다른 문서로 연결되는 텍스트(웹사이트의 근간)<br>
 Markup은 태그이용한 방식
 
-# 예시
+# 2. 예시
 <html>
   <h1>this is heading1<h1>
     <h2>this is subheading1<h2>
@@ -27,7 +27,7 @@ Markup은 태그이용한 방식
     <a href="https://github.com/Lutris98/Cheatsheets">Visit cheatsheets!
     <img src="https://github.com/Lutris98/PersonalProject_tradingBot/Quote.png">
 
-# 마크다운 작성
+# 3. 마크다운 작성
 마크다운이란 html문서의 일종으로<br> 
 일반인이 개발자처럼 태그로 복잡하게 짜지 않고 <br>
 간단하게 블로그등을 적을 수 있게해준 방식이다.
