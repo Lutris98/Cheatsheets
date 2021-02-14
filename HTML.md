@@ -24,7 +24,7 @@ Markup은 태그이용한 방식
       <td>table data1</td>
       <td>table data2</td>
     </table>
-    <a href="https://github.com/Lutris98/Cheatsheets">Visit cheatsheets!</a>
+    <a href="https://github.com/Lutris98/Cheatsheets">Visit cheatsheets!</br>
     <img src="https://github.com/Lutris98/PersonalProject_TradingBot/blob/main/Quote.png"></img>
 
 # 3. 마크다운 작성
