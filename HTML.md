@@ -2,14 +2,31 @@
 Hypertext는 누르면 다른 문서로 연결되는 텍스트(웹사이트의 근간)<br>
 Markup은 태그이용한 방식
 
-# 주요 태그
-<xmp>
-  <html> 문서의 가장 바깥 테두리<br>
-  <h1><h2> 머릿말의 수준 정리<br>
-  <ol> 순서리스트, <li> bulletpoint <br>
-  <a href=> 하이퍼링크, <img src=> 이미지 <br>
-  <table> 테이블의 가장 바깥 테두리, <tr> 행의 바깥 테두리 <th,td> 각행(h면 헤더) 
-<xmp>
+# 예시
+<html>
+  <h1>this is heading1<h1>
+    <h2>this is subheading1<h2>
+  <h1>this is heading2<h1>
+  <ol>
+    <li>the first ordered list</li>
+    <li>the second ordered list</li>
+  </ol>
+  <ul>
+    <li>the first unordered list</li>
+    <li>the second unordered list</li>
+  </ul>
+  <table>
+    <tr>
+      <th>table header1</th>
+      <th>table header2</th>
+    </tr>
+    <tr>
+      <td>table data1</td>
+      <td>table data2</td>
+    </table>
+    <a href="https://github.com/Lutris98/Cheatsheets">Visit cheatsheets!
+    <img src="https://github.com/Lutris98/PersonalProject_tradingBot/Quote.png">
+
 # 마크다운 작성
 마크다운이란 html문서의 일종으로<br> 
 일반인이 개발자처럼 태그로 복잡하게 짜지 않고 <br>
