@@ -9,7 +9,7 @@ Markup은 태그이용한 방식
 <ol> 순서리스트, <li> bulletpoint <br>
 <a href=> 하이퍼링크, <img src=> 이미지 <br>
 <table> 테이블의 가장 바깥 테두리, <tr> 행의 바깥 테두리 <th,td> 각행(h면 헤더) 
-<xmp>
+
 # 마크다운 작성
 마크다운이란 html문서의 일종으로<br> 
 일반인이 개발자처럼 태그로 복잡하게 짜지 않고 <br>
