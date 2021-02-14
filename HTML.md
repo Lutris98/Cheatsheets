@@ -1,3 +1,15 @@
+<html>
+# HyperText Markup Language
+Hypertext는 누르면 다른 문서로 연결되는 텍스트(웹사이트의 근간), Markup은 태그이용한 방식
+# 주요 태그
+<html> 문서의 가장 바깥 테두리
+<h1><h2> 머릿말의 수준 정리 
+<ol> 순서리스트, <li> bulletpoint
+<a href=> 하이퍼링크, <img src=> 이미지
+<table> 테이블의 가장 바깥 테두리 <tr> 행의 바깥 테두리 <th,td> 각행(h면 헤더)
+# 예시
+
+
 # 마크다운 작성
 마크다운이란 html문서의 일종으로<br> 
 일반인이 개발자처럼 태그로 복잡하게 짜지 않고 <br>
@@ -30,3 +42,4 @@ HTML의 \<hr>에 대응됨 <br/>
 
 - 강조<br/>
 \_이탤릭_ , \__볼드__ <br/>
+</html>
