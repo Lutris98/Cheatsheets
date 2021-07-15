@@ -1,4 +1,4 @@
-#Github 이용방법
+# Github 이용방법
 
 1. cmd에서 cd 로컬repo로 시작<br>
 
